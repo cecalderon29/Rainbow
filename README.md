@@ -1,6 +1,6 @@
 # Rainbow
 Learn what a repository is all about
-this is a poem about rainbows and monkeys
+this is a poem about rainbows and monkies
 Red
 Orange
 Yellow
