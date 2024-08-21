@@ -1,6 +1,6 @@
 # Rainbow
 Learn what a repository is all about
-this is a poem about rainbows and monkeys
+this is a poem about rainbows and monkeys and fruit
 Red
 Orange
 Yellow
@@ -10,4 +10,4 @@ Violet
 Indigo
 
 
-banana
+banana apple
