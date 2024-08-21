@@ -1,5 +1,6 @@
 # Rainbow
 Learn what a repository is all about
+
 this is a poem about rainbows and monkeys and vegetables
 Red
 Orange
@@ -8,6 +9,5 @@ Green
 Blue
 Violet
 Indigo
-
 
 banana broccoli
